@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Compose Business Card</string>
+    <string name="user_name">Jennifer Doe</string>
+    <string name="user_designation">Android Developer Extraordinaire</string>
+    <string name="user_phone">+11 (123) 44 55 66</string>
+    <string name="user_social">\@AndroidDev</string>
+    <string name="user_email">jen.doe@android.com</string>
+</resources>
